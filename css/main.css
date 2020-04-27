@@ -26,10 +26,10 @@ body {
     border: 1px solid black;
 }
 
-.Grid-square--yellow {
+.Grid-square.Grid-square--yellow {
     background: yellow;
 }
 
-.Grid-square--green {
+.Grid-square.Grid-square--green {
     background: green;
 }
